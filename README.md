@@ -1,3 +1,3 @@
 # testrepo
 
-Hi creating repository and renaming
+Hi creating repository and editing file
